@@ -1,0 +1,23 @@
+{
+  "name": "ma-test-task-node",
+  "version": "1.0.0",
+  "description": "MA test task (node.js)",
+  "type": "module",
+  "scripts": {
+    "game": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavamarkovski/ma-test-task-node.git"
+  },
+  "author": "slavamarkovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavamarkovski/ma-test-task-node/issues"
+  },
+  "homepage": "https://github.com/slavamarkovski/ma-test-task-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0"
+  }
+}
