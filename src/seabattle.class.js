@@ -112,7 +112,6 @@ export default class SeaBattle {
         return arr.some((c) => JSON.stringify(c) === JSON.stringify(el));
     }
 
-
     // TODO: implement generating submarine coordinates randomly
     // _getRandomCoordinates(numOfDecks) { }
 }
